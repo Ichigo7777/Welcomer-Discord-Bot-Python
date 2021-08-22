@@ -9,7 +9,7 @@ First, we want to clone the repository using `git clone`:
 ```
 git clone https://github.com/jcreek/discord.py-welcome-bot.git
 
-cd discord.py-welcome-bot
+cd Welcomer-Discord-Bot-Python
 ```
 Secondly, we want to make sure we've updated our package list:
 
