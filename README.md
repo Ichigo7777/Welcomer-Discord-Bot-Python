@@ -7,7 +7,7 @@ Make sure that you've installed Python 3.6 or higher before beginning this.
 
 First, we want to clone the repository using `git clone`:
 ```
-git clone https://github.com/jcreek/discord.py-welcome-bot.git
+git clone https://github.com/Ichigo7777/Welcomer-Discord-Bot-Python.git
 
 cd Welcomer-Discord-Bot-Python
 ```
