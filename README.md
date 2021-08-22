@@ -1,26 +1,27 @@
 # Welcomer-Discord-Bot-Python
 
-## Easy: How to install the welcome-bot on a home computer:
+## Легко: Как установить приветственного бота на ваш компьютер:
 
-Make sure that you've installed Python 3.6 or higher before beginning this.
+Перед тем, как начать, убедитесь, что вы установили Python 3.6 или выше.
+
 ### Linux
 
-First, we want to clone the repository using `git clone`:
+Во-первых, мы хотим клонировать репозиторий, используя `git clone`:
 ```
 git clone https://github.com/Ichigo7777/Welcomer-Discord-Bot-Python.git
 
 cd Welcomer-Discord-Bot-Python
 ```
-Secondly, we want to make sure we've updated our package list:
+Во-вторых, мы хотим убедиться, что мы обновили наш список пакетов:
 
 ```
 sudo apt update -y
 ```
-We now want to install the `python3` package:
+Теперь мы хотим установить `python3` пакеты:
 ```
 sudo apt install python3
 ```
-Our final thing to do is run the script:
+И последнее, что нам нужно сделать, это запустить скрипт:
 ```
 python3 welcome-bot.py
 ```
